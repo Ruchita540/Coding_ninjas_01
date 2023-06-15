@@ -1,0 +1,21 @@
+.navbarHomeinternal{
+    padding: 20px;
+    background-color: aliceblue;
+    margin: 5px  20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    
+}
+
+
+a{
+    font-size: 14px
+}
+
+a:hover{
+    font-size: 17.3px;
+    /* box-shadow: 3px 3px 4px rgb(227, 197, 75); */
+    text-decoration: underline;
+    text-decoration-color: rgb(65, 61, 59);
+}

@@ -1,0 +1,54 @@
+1) What is mongodb?
+Mongidb is a Nosql document oriented database that stores data in json like documents with dynimic schemas.
+It is designed to handle large volumes of unstructured data.
+
+2) What is document in mongodb?
+A document is a set of key value pairs stores in a BSON format in mongodb BSON is a binary representation of JSON  
+
+3) What is a collection in mongodbA ?
+A collection in mogodb is group of document that share a similar structure. It is equivalent to a table in a relational database.
+
+4)What is a replica set in mongodb?
+A replica set in mongodb is a group of mongodb serves that stores the same data to provide redundancy and high availability.
+
+
+5)What is sharding in mongodb?
+Sharding in mongodb is a method of partitioning data across multiple servers to improve performance and scalability.
+
+6)What is indexing in mongodb?
+Indexing in mongodb is the process of creating an index on a index on a field in a collection to improve query performance.
+
+7)What are the different types of indexing in mongodb?
+Mongodb supports several types of indexing including several field compound multikey text and geospatial indexing.
+
+8)What is MapReduce in Mongodb?
+MapReduce is a data processing technique in mongodb that involves mapping data to a set of key value pair reducing the values based on keys and aggregrating the results.
+
+9)What is the difference between update and save in MongoDB?
+The update method in mongodb modifies existing documents while the save method either updates an exiting document or inserts a new document if one does not already exits.
+
+10)What is gridFS in mongodb?
+GridFS is a specification for storing and retriving large files such as images and videos in mongodb
+
+11)What is difference between primary key and secondary key in mongodb?
+A primery key in mongodb is a unique identifier for a document while a secondary key is used for indexing and querying data.
+
+12)How does Mongodb handle schema changes?
+Mongodb allows for flexible schemas and schema changes can be made without affecting existing data.
+
+13)How does Mongodb ensures data consistency?
+Mongodb uses a two phase commit protocol to ensure data consistency in distributed environment.
+
+14)How does Mongodb handle transaction?
+Mongodb supports multi-documents transaction that allows for atomicity consistency isolation and durability property 
+
+15)What is the role of the mongo shell in mongodb?
+The mongo shell is a command line interface that allows users to interact with mongodb and perform administrative tasks
+
+16)How does mongodb handle security?
+Mondodb provides several security features including authentication authorization encrytion and auditing.
+
+17)What is difference between a join and a lookup in mondodb?
+A join in mongodb involves combining data from multiple collection while a lookup involves retriving related data from another collection.
+
+

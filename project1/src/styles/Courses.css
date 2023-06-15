@@ -1,0 +1,144 @@
+.coursesContainer{
+    padding: 65px;
+    
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_eO_FummadAoF2sU42oLv4W_chVpbvW44Og&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.browse{
+    width: 160px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    margin: 20px;
+}
+
+.tryForFree{
+    width: 160px;
+    height: 30px;
+    background-color: rgb(255, 254, 253);
+    color: rgb(23, 22, 22);
+    
+}
+
+
+.expreinceContainer{
+    width: 50%;
+    margin-left: 25%
+}
+
+.imageCard{
+    
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cards{
+    width: 20%;
+    padding: 30px;
+    border: 2px solid grey;  
+    border-radius: 5px;
+
+}
+.cards:hover{
+    box-shadow: 3px 3px 4px  grey, -3px -3px 4px  grey;
+}
+
+
+.Tips{
+    width: 80%;
+    padding-left: 10%
+}
+
+.offers{
+    width: 80%;
+    padding-left: 10%
+}
+.tipsCardsContainer{
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(238, 240, 187);
+
+}
+
+.facility{
+    justify-content: space-between;
+    display: flex;
+}
+
+.faciltyCardLeft{
+    width: 45%;
+ display: flex;
+ flex-direction: column;
+}
+
+
+.internalDicswithlogo{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+
+.headings{
+    text-align: left;
+}
+
+
+.faciltyCardRight{
+    width: 45%;
+ display: flex;
+ flex-direction: column;
+}
+
+.allcoursesImage{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.display{
+    padding: 13px;
+    display: flex;
+    background: linear-gradient(to right, rgb(8, 8, 146), black);
+    border-radius: 10px;
+    color: white;
+}
+
+.margin{
+    margin-left: 20px;
+}
+
+.ulist{
+    margin: 0;
+    border-radius: 14px;
+    height: 50%;
+    font-size: larger;
+    background-color: white;
+}
+
+.alignment{
+    background-color: rgb(61, 61, 171);
+    text-align: center;
+    height: 40%;
+    padding: 40px;
+    color: white;
+}
+
+.backtocourse{
+    width: 20%;
+    height: 50px;
+    background: linear-gradient(to right
+    , orange, rgb(207, 164, 84)
+    , rgb(216, 152, 23)
+    
+    );
+
+    border-radius: 12px;
+    color: white;
+    font-size: larger;
+}

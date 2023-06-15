@@ -1,0 +1,23 @@
+.Maincotinaer{
+    display: flex;
+    margin: 20px 20px;
+}
+
+.internalList{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.inetrnalCards{
+    display: flex;
+    justify-content: space-evenly;
+  
+
+}
+
+.INternalCardsWidth{
+    width: 30%;
+    border-radius: 5px;
+    background-color: rgb(248, 248, 246);
+}

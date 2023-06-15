@@ -1,0 +1,220 @@
+.firstFlexConmtainer{
+    display: flex;
+    justify-content: center;
+}
+
+.firstFLexITem{
+    padding: 40px;
+   
+}
+
+.flexrow{
+   display: flex;
+   flex-direction: row; 
+}
+
+
+.regsiter{
+    background-color: orange
+    ;
+    color: white;
+    width: 190px;
+    height: 60px;
+    font-size: larger;
+    border-radius: 5px;
+}
+.scholarshipheading{
+    color: orange;
+}
+
+.ParticipateHeading{
+    color: purple;
+}
+
+.scholarshipheading:hover{
+    color: rgb(195, 139, 36);
+    text-decoration: underline;
+}
+
+.textHighlightContianer{
+    padding: 3%;
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+}
+
+.backgroundcolor{
+    background-color: blue;
+    border-radius: 6px;
+    width: 20%;
+}
+
+
+.display{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.cotanerer{
+    background-color: orange;
+    width: 25%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.innerDescription{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.alignmentoneScholarshgip{
+    text-align: center;
+    color: purple;
+}
+
+.screnshot{
+    width: 90%;
+    height: fit-content;
+}
+
+
+.PlacementRecords{
+    background-color: bisque;
+}
+
+
+.text-align{
+    text-align: center;
+    
+}
+
+.orrangeColor{
+    color: orange;
+}
+
+.purpleoclor{
+    color: purple;
+}
+
+
+.logoDiplsyacontanewr{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.logocontonaierImages{
+    width: 14%;
+}
+
+.diplayFlexforGROUP{
+margin: 3vw;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.imageLogoForTeam{
+    width: 90%;
+}
+
+
+.registerCNSAT{
+    width: 70%;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    border: 15px;
+    font-size: medium;
+    font-weight: 400;
+}
+
+
+.towaredsDreramJon{
+    color: grey;
+}
+
+
+.popularCourseWeOffecontainer{
+    padding: 34px;
+    color: aliceblue;
+    background-color:rgb(10, 29, 72) ;
+}
+
+.dipslayFlexForlanguagecontainer{
+  display: flex;
+  flex-direction: row ;
+  justify-content: space-evenly;
+}
+
+
+.internalCardLanguage{
+    width: 18%;
+}
+
+.languageCard{
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10%;
+    width: 80%;
+    height: 40px;
+    font-size: 1.1em;
+    font-weight: bold;
+    background-color: orange;
+}
+
+
+.displayFlexContaneorthird{
+    display: flex;
+}
+
+.cardthirdContainer{
+    width: 40%;
+}
+
+
+.imageCardWodthHieght{
+    width: 100%;
+    height: 100%;
+}
+
+
+.firstContinaer{
+   
+    display: flex;
+    flex-direction:  column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.FAQcontainer{
+    background-color: antiquewhite;
+}
+
+.paddingValue{
+    padding : 5%
+}
+
+.footerScholarship{
+    padding:30px 80px;
+    background-color: rgb(18, 21, 84);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logocoding{
+width: 20%;
+height: 10%;
+border-radius:20px ;
+
+}
+
+.logoContainer2{
+    color: azure;
+    text-align: end;
+}

@@ -1,0 +1,18 @@
+.CousersConatinerFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    
+}
+
+.CousersFlexItems{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(181, 193, 189);
+    width: 20%;
+    height: auto;
+}

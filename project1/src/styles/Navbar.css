@@ -1,0 +1,44 @@
+#navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+    background-color: black;
+    border-radius: 15px;
+    
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+.text-decoration:hover{
+    font-size: 1.2em;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.loginButton{
+    background-color: white;
+    border: 2px solid orangered;
+    color: brown;
+    width: 90px;
+    height: 40px;
+     border-radius: 15px;
+}
+
+
+.enrollButton{
+    background-color: orange;
+    border: 2px solid rgb(241, 98, 47);
+    color: rgb(24, 22, 22);
+    width: 125px;
+    height: 60px;
+    border-radius: 15px;
+
+}
